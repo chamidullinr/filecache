@@ -1,1 +1,1 @@
-from core import FileCache, hashkey
+from .core import FileCache, hashkey
