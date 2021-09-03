@@ -1,5 +1,5 @@
 # FileCache
-Simple caching method for storing cached objects into pickle files.
+A simple caching method for storing cached objects into pickle files.
 
 In Python, there are several useful packages or methods for caching (for example `functools.cache` or `cachetools`).
 However, they are focused on in-memory caching.
